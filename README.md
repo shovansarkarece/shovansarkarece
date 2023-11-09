@@ -8,8 +8,9 @@
 
 - 🌱 I’m currently learning
   **Linux,Bash_Scripting,AWS,Azure,Jenkins,Tom_Cat_Server,
-  Git,SonarQube,Gitlab_CI/CD_Pipeline,GitHub_Actions,Nexus,OWASP,
-  Trivy_Scanner,Docker,Kubernetes,Ansible,Terraform,Prometheus,Grafana**
+  Git,SonarQube,Gitlab_CI/CD_Pipeline,GitHub_Actions,Nexus,
+  OWASP,Trivy_Scanner,Docker,Kubernetes,Ansible,Terraform,
+  Prometheus,Grafana**
 
 - 🔭 I’m currently working on [Portfolio_Project_With_bootstrap](https://portfolio-project-with-bootstrap.netlify.app/)
 
