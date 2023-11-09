@@ -6,9 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shovansarkarece&label=Profile%20views&color=0e75b6&style=flat" alt="shovansarkarece" /> </p>
 
-- 🌱 I’m currently learning **Linux,Bash_Scripting,AWS,Azure,Jenkins,Tom_Cat_Server,
-- 🌱 Git,SonarQube,Gitlab_CI/CD_Pipeline,GitHub_Actions,Nexus,OWASP,
-- 🌱 Trivy_Scanner,Docker,Kubernetes,Ansible,Terraform,Prometheus,Grafana**
+- 🌱 I’m currently learning
+  🌱**Linux,Bash_Scripting,AWS,Azure,Jenkins,Tom_Cat_Server,
+  🌱Git,SonarQube,Gitlab_CI/CD_Pipeline,GitHub_Actions,Nexus,OWASP,
+  🌱 Trivy_Scanner,Docker,Kubernetes,Ansible,Terraform,Prometheus,Grafana**
 
 - 🔭 I’m currently working on [Portfolio_Project_With_bootstrap](https://portfolio-project-with-bootstrap.netlify.app/)
 
